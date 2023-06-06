@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{font: normal 15pt arial;}
+
+main{background-color: lightgrey;
+background-image: linear-gradient(to right, lightgrey, grey);
+padding: 20px;
+border-radius: 20px;
+margin: auto;
+text-align: center;}
+
+input{border-radius: 10px;
+padding: 10px;}
+
+div{background-color: white;
+border: 1px solid black;
+border-radius: 10px;
+padding: 10px;
+width: 200px;
+margin: auto;
+margin-top: 20px;}
