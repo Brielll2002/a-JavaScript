@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-body{background-color: lightskyblue;
+body{background-color: rgb(135, 206, 250);
 font: normal 15pt arial;}
 
 header{text-align: center;}
@@ -9,7 +9,7 @@ section{background-color: white;
 border-radius: 20px;
 text-align: center;
 padding: 20px;
-width: 200px;
+width: 400px;
 margin: auto;
 box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.199);}
 
